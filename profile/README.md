@@ -4,5 +4,5 @@
   Infinity Development
 </h2>
 <p align="center">
-  Simple Organization used as a access point for our Reedwbisker Development Environments. This org will house no repos or information.!
+  Simple Organization used as a access point for our Reedwbisker Development Environments. This org will house no repos or information.
 </p>
